@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;">
-    <img src="image/imagem.jpg" alt="Texto alternativo da imagem" style="border-radius: 100%; width: 250px; height: 250px; object-fit: cover;">
+    <img src="imagem.jpg" alt="Texto alternativo da imagem" style="border-radius: 100%; width: 250px; height: 250px; object-fit: cover;">
 </div>
 
 <div style="text-align: center;">
