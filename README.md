@@ -19,9 +19,7 @@
     <button style="background-color: #808080; color: white; border: none; padding: 2px 10px; font-size: 16px; margin-right: 10px; border-radius: 10%">
         Email: <a href="mailto:rafaelaaraujosouza2006@gmail.com">rafaelaaraujosouza2006@gmail.com</a>
     </button>
-    <button style="background-color: #808080; color: white; border: none; padding: 2px 10px; font-size: 16px;">
-        Telefone: 18 9565656
-    </button>
+  
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
@@ -31,7 +29,8 @@
         <ul style="text-align: left;">
             <li>Python</li>
             <li>Banco de Dados - MySQL</li>
-            <li>Exemplo de habilidade 3</li>
+            <li>Mobile e Interface</li>
+            <li>Back-End e Font-End</li>
         </ul>
     </div>
 
@@ -40,7 +39,6 @@
         <ul style="text-align: left;">
             <li>Completando o 3º ano do Ensino Médio</li>
             <li>Completando o curso técnico de Desenvolvimento de Sistemas</li>
-            <li>Exemplo de formação 3</li>
         </ul>
     </div>
 
@@ -51,18 +49,19 @@
 <div style="text-align: center; width: 50%; margin-right: 20px;">
         <h3>Cursos Adicionais</h3>
         <ul style="text-align: left;">
-            <li>Curso adicional 1</li>
-            <li>Curso adicional 2</li>
-            <li>Curso adicional 3</li>
+            <li>IoT - 40 horas</li>
+            <li>Python 1 - 30 horas</li>
+            <li>Inglês - 6 meses</li>
+            <li>Robótica Básica - 40 horas</li>
         </ul>
     </div>
 
 <div style="text-align: center; width: 50%;">
         <h3>Cursos Prêmios</h3>
         <ul style="text-align: left;">
-            <li>Prêmio 1</li>
-            <li>Prêmio 2</li>
-            <li>Prêmio 3</li>
+            <li>Aluna Padão 2023</li>
+            <li>Medalha de Prata na Olimpiada Brasileira de Astonomia e Astronáutica OBA</li>
+            <li>Medalha de bronze na Olimpíada Brasileira de Geografia OBG</li>
         </ul>
     </div>
 
